@@ -10,7 +10,7 @@
   "dependencies": {
     "@optimizely/optimizely-sdk": "^4.9.1",
     "@vercel/edge-functions-ui": "^0.2.1",
-    "next": "^12.1.0",
+    "next": "^14.2.7",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
