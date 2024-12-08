@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@types/node": "17.0.45",
-    "@types/react": "17.0.67",
+    "@types/react": "17.0.83",
     "@types/ua-parser-js": "^0.7.36",
     "autoprefixer": "^10.4.2",
     "eslint": "^8.9.0",
